@@ -1,2 +1,1 @@
-# Thumbnail-Generator
-Test
+#
